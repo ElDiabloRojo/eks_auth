@@ -13,3 +13,4 @@ pytest-runner==5.1
 
 inquirer==2.6.3
 boto3==1.12.43
+PyYAML==5.3.1
