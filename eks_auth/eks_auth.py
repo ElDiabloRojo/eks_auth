@@ -1,6 +1,6 @@
 """Main module."""
-from profile import selector, profile, creator
-from aws import client, eks
+from eks_auth.profile import selector, profile, creator
+from eks_auth.aws import client, eks
 import configparser
 
 

@@ -1,6 +1,6 @@
 import os
-from profile import selector
-from tools.userAccept import yes_or_no, request_value
+from eks_auth.profile import selector
+from eks_auth.tools.userAccept import yes_or_no, request_value
 
 
 def configure():

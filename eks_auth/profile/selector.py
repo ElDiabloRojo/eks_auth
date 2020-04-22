@@ -1,8 +1,8 @@
 import os
 import re
-from profile import creator
-from tools.inquire import inquire
-from tools.userAccept import yes_or_no
+from eks_auth.profile import creator
+from eks_auth.tools.inquire import inquire
+from eks_auth.tools.userAccept import yes_or_no
 
 
 def select():
