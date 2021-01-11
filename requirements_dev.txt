@@ -12,5 +12,5 @@ pytest==5.4.1
 pytest-runner==5.2
 
 inquirer==2.6.3
-boto3==1.12.43
+boto3==1.16.52
 PyYAML==5.3.1
